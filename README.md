@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Commands and stuff.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/3rnestocs/3rnestocs)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3rnestocs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
