@@ -1,8 +1,6 @@
-### Hey, all good? I'm Ernesto 👀
+### Hey, Ernesto here.
 
-- 🔭 I’m currently working on creating a portfolio on my own website.
-- 🌱 I’m currently learning Javascript, and practicing Swift.
-- 👯 I’m looking to collaborate on any project that fits with my principles as a junior developer.
+- 💻 iOS Dev who doesn't know even a piece of Combine (and it's ok)
 - 💬 Ask me about anything you want. If you're respectful, I'll answer happily. Or not, who knows.
 - 📫 How to reach me: @3rnestocs in any social media.
 - ⚡ Fun fact: Why would I share my awesome jokes with a stranger?
