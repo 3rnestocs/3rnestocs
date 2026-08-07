@@ -1,8 +1,13 @@
-### Hey, Ernesto here.
+# Ernesto Contreras
 
-- 💻 iOS Dev who doesn't know even a piece of Combine (and it's ok)
-- 💬 Ask me about anything you want. If you're respectful, I'll answer happily. Or not, who knows.
-- 📫 How to reach me: @3rnestocs in any social media.
-- ⚡ Fun fact: Why would I share my awesome jokes with a stranger?
+Software architect — mobile-first, stack-agnostic. I started in iOS and stopped being a one-stack engineer somewhere along the way: Swift, React Native, TypeScript, PostgreSQL, Flutter, whatever the problem needs. AI agents do the heavy lifting; the architecture and the decisions are mine.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3rnestocs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+**Personal systems in production:**
+
+- **[IZANAGI](https://izanagi.3rnestocs.com/about)** — Discord bot + public website running a full RPG system for a real community. One PostgreSQL database as the single source of truth. → [source](https://github.com/3rnestocs/sistema-izanagi)
+- **[Hermes](https://hermes.3rnestocs.com/home)** — algorithmic trading platform I designed, built, and run 24/7. The engineering is public; the alpha is not.
+- **UpSelf** — iOS habit tracker with RPG mechanics, SwiftUI. → [source](https://github.com/3rnestocs/upself)
+
+Day job: payments infrastructure for a ride-hailing platform; before that, a chain-agnostic crypto wallet.
+
+[3rnestocs.com](https://3rnestocs.com) · [LinkedIn](https://www.linkedin.com/in/3rnestocs) · contact@3rnestocs.com
