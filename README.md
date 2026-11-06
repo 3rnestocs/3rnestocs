@@ -1,6 +1,6 @@
 # Ernesto Contreras
 
-Software architect — mobile-first, stack-agnostic. I started in iOS and stopped being a one-stack engineer somewhere along the way: Swift, React Native, TypeScript, PostgreSQL, Flutter, whatever the problem needs. AI agents do the heavy lifting; the architecture and the decisions are mine.
+I bring products to life through pragmatic engineering. Working across Swift, React Native, TypeScript, and Flutter made me realize the tech stack is just a social construct  nowadays😂. AI agents do the heavy lifting while I own the architecture and deep-reasoning decisions.
 
 **Personal systems in production:**
 
@@ -8,6 +8,6 @@ Software architect — mobile-first, stack-agnostic. I started in iOS and stoppe
 - **[Hermes](https://hermes.3rnestocs.com/home)** — algorithmic trading platform I designed, built, and run 24/7. Source stays private; so does the alpha. → [engineering](https://github.com/3rnestocs/hermes-engineering)
 - **UpSelf** — iOS habit tracker with RPG mechanics, SwiftUI. → [source](https://github.com/3rnestocs/upself)
 
-Day job: payments infrastructure for a ride-hailing platform; before that, a chain-agnostic crypto wallet.
+Day job: growth engineer for a ride-hailing platform..
 
 [3rnestocs.com](https://3rnestocs.com) · [LinkedIn](https://www.linkedin.com/in/3rnestocs) · contact@3rnestocs.com
